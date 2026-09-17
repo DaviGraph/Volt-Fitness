@@ -116,15 +116,13 @@ nav a:hover::after {
 }
 
 .hero-buttons button {
-    background-color: #B7FF00;
-    color: #080A0D;
     padding: 12px 24px;
-    border: none;
     border-radius: 8px;
     font-size: 14px;
     font-weight: 600;
     cursor: pointer;
     transition: 0.3s ease;
+    border: none;
 }
 
 .hero-buttons button:hover {
@@ -133,7 +131,7 @@ nav a:hover::after {
 }
 
 .pry-btn {
-    background-color:#B7FF00;
+    background-color: #B7FF00;
     color: #080A0D;
 }
 
